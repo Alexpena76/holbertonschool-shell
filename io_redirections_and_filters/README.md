@@ -1,0 +1,1 @@
+# Here are stored all of the exercises for the Project: Shell, I/O project
