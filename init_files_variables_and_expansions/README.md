@@ -1,1 +1,0 @@
-# These are the exercises for the init files, variables and expansions section
